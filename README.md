@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning VBScript, JScript, Windows Shell Script, PowerShell, Bash, C++, C#, Java and many others.
 - 💞️ I’m looking to collaborate on independent gnu developers for OSINT desisions
 - 📫 How to reach me ...
-- You can call me at E-mail: <vadimrevich21@gmail.com>, Telegram @yxzs1969 and ICQ: 120105414
+- You can call me at E-mail: <vadimrevich21@gmail.com>, Telegram @yxzs1969 and VK.com: https://vk.com/yudenisov
 
 <!---
 vadimrevich/vadimrevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
